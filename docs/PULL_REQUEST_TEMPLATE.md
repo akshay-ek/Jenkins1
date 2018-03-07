@@ -1,14 +1,8 @@
-# CONTRIBUTING TO BAGHEERA, Please include your statements inside the angle brackets
+# Summary        
 
-Summary 	 : <A one line description of the bug/feature, this will go into summary section of 
-		  release notes>
+Description       :
+Jira Tracking Id  :
+Known-Issues      :
+QA-note           :
+Notes             :
 
-Description	 : <A detailed technical description of the bug/feature>
-
-Jira Tracking Id: <Jira-Id1, Jira-Id2>
-
-Known-Issues	 : <Any known issues>
-
-QA-note		 : <Steps to be followed by QA for validating>
-
-Notes		 : <Any other notes, optional>
